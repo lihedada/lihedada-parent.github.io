@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-10-28T15:27:18.711+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/admin/system/sysRole/findAll"
+}
