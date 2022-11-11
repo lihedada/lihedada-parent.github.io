@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e1d12b1-1e42-46f4-96b4-1bd5bd20665d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2GkpuPoDpHRmHYQh4kEdckzN8I3" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-system/src/main/java/com/system/controller" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.system" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daima\maven\boot01\guiguparent\service-system\src\main\java\com\system\controller" />
+      <recent name="D:\daima\maven\boot01\guiguparent\service-system\src\main\java\com\system\service\impl" />
+      <recent name="D:\daima\maven\boot01\guiguparent\service-system\src\main\java\com\system\mapper" />
+      <recent name="D:\daima\maven\boot01\guiguparent\common\Spring-Security\src\main\java\com\system\utils" />
+      <recent name="D:\daima\maven\boot01\guiguparent\common\Spring-Security\src\main\java\com\system\filter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.common.utils" />
+      <recent name="com.system.mapper.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\daima\maven\boot01\guiguparent\service-system\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/admin/system/sysRole/findAll" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.system.test.CodeGet" />
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.common.utils.JwtHelper" />
+      <module name="commonutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysRoleServiceTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.system.test" />
+      <option name="MAIN_CLASS_NAME" value="com.system.test.SysRoleServiceTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysRoleServiceTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.system.test" />
+      <option name="MAIN_CLASS_NAME" value="com.system.test.SysRoleServiceTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.system.ServiceAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAuthApplication" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="Application.CodeGet" />
+        <item itemvalue="JUnit.SysRoleServiceTest.remove" />
+        <item itemvalue="JUnit.SysRoleServiceTest.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1d12b1-1e42-46f4-96b4-1bd5bd20665d" name="Default Changelist" comment="" />
+      <created>1666942657594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666942657594</updated>
+      <workItem from="1666942660228" duration="1414000" />
+      <workItem from="1666944105686" duration="406000" />
+      <workItem from="1666944527548" duration="338000" />
+      <workItem from="1666944881216" duration="16683000" />
+      <workItem from="1667012648169" duration="11892000" />
+      <workItem from="1667034379223" duration="598000" />
+      <workItem from="1667116593940" duration="4649000" />
+      <workItem from="1667193710478" duration="4363000" />
+      <workItem from="1667289585735" duration="928000" />
+      <workItem from="1667374466608" duration="715000" />
+      <workItem from="1667387744144" duration="35000" />
+      <workItem from="1667542701878" duration="2824000" />
+      <workItem from="1667545831792" duration="9055000" />
+      <workItem from="1667585514570" duration="2096000" />
+      <workItem from="1667626388194" duration="16042000" />
+      <workItem from="1667714450727" duration="10125000" />
+      <workItem from="1667800953230" duration="19162000" />
+      <workItem from="1667867357142" duration="6583000" />
+      <workItem from="1667884700191" duration="12031000" />
+      <workItem from="1667901746263" duration="12377000" />
+      <workItem from="1667924027366" duration="101000" />
+      <workItem from="1667924141977" duration="2110000" />
+      <workItem from="1667974885639" duration="19153000" />
+      <workItem from="1668008498822" duration="10243000" />
+      <workItem from="1668045043986" duration="21690000" />
+      <workItem from="1668092190869" duration="2627000" />
+      <workItem from="1668139567439" duration="4459000" />
+      <workItem from="1668149318777" duration="3283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

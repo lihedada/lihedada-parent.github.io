@@ -1,0 +1,42 @@
+GET http://localhost:8800/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8800/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8800/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-10-28T112718.404.json
+
+###
+
+GET http://localhost:8080/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-10-28T112701.404.json
+
+###
+
+GET http://localhost:8080/admin/system/sysRole/findAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-10-28T112631.404.json
+
+###
+
